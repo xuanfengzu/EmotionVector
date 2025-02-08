@@ -1,4 +1,7 @@
 # Emotion Vectors
+
+![image](./img/head.png)
+
 The code and data for the paper "Controllable Emotion Generation with Emotion Vectors".
 
 arxiv: https://arxiv.org/abs/2502.04075
